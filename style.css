@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    text-align: center;
+  }
+  header {
+    margin: 0 auto;
+    width: 431px;
+  }
+
+  #board {
+    /* background-color: skyblue; */
+    background-image: url("./flappybirdbg.png");
+}
+
+
+
+
+
+
